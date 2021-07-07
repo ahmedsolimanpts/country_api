@@ -1,0 +1,27 @@
+{
+  "name": "country_api",
+  "version": "1.0.0",
+  "description": "country api to get data about country ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedsolimanpts/country_api.git"
+  },
+  "author": "Ahmed Mohmaed Soliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedsolimanpts/country_api/issues"
+  },
+  "homepage": "https://github.com/ahmedsolimanpts/country_api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
